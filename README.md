@@ -1,4 +1,4 @@
-# Hi there, I'm I Gede Yudhi Indrawan 👋
+# Hi there, I'm Yudhi Indrawan 👋
 
 ### 🚀 Backend Engineer | Machine Learning & Deep Learning Enthusiast | AI Engineer in Progress
 
