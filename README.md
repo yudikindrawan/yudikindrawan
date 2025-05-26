@@ -17,7 +17,7 @@
 | Backend               | Machine Learning & AI          | DevOps & Tools           |
 |-----------------------|-------------------------------|-------------------------|
 | Python, Node.js, PHP   | TensorFlow, scikit-learn | Docker, Git, GitHub Actions |
-| Django, FastAPi, Laravel, Express | CNN, RNN, Transformer models | Linux, REST API, PostgreSQL |
+| Django, FastAPi, Laravel, Express | CNN, RNN, Transformer models | Linux, REST API |
 | MongoDB, MySQL, PostgreSQL | Data preprocessing, Feature engineering | Jupyter, Google Colab      |
 
 ---
