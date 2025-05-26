@@ -31,6 +31,8 @@
 
 📫 **Get in touch:**   
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square)](mailto:yudikidrr@gmail.com)
+[![TikTok](https://img.shields.io/badge/-TikTok-black?logo=tiktok&style=flat-square)](https://www.tiktok.com/@yudikidr_)
+
 
 ---
 
