@@ -16,7 +16,7 @@
 
 | Backend               | Machine Learning & AI          | DevOps & Tools           |
 |-----------------------|-------------------------------|-------------------------|
-| Python, Node.js, PHP   | TensorFlow, PyTorch, scikit-learn | Docker, Git, GitHub Actions |
+| Python, Node.js, PHP   | TensorFlow, scikit-learn | Docker, Git, GitHub Actions |
 | Django, Laravel, Express | CNN, RNN, Transformer models | Linux, REST API, PostgreSQL |
 | MongoDB, MySQL, PostgreSQL | Data preprocessing, Feature engineering | Jupyter, Google Colab      |
 
@@ -29,10 +29,8 @@
 
 ---
 
-📫 **Get in touch:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yudikindrawan)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/yudikindrawan)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square)](mailto:yudikindrawan@example.com)
+📫 **Get in touch:**   
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square)](mailto:yudikidrr@gmail.com)
 
 ---
 
